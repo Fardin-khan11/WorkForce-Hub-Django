@@ -4,13 +4,16 @@ A Django-based Employee Management System designed to manage multiple companies,
 
 ## 🌐 Live Demo
 
-**Live Website: https://employes-management-system.onrender.com/
+**Live Website: https://workforce-hub-jb54.onrender.com
 ## 🔐 Demo Login Credentials
 Role: Super Admin
 
 demo_user = Company_owner
 
+
 password = Fardeen@123456
+
+Note: This project is hosted on Render's free tier. If the application has been inactive for a while, the first visit may take approximately 30–50 seconds to load while the service starts up. Subsequent requests should load faster.
 
 ## ✨ Features
 
